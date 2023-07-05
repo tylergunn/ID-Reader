@@ -14,14 +14,14 @@ Before running this program, ensure that you have the following prerequisites se
 1. Clone the repository to your Raspberry Pi W:
 $ git clone https://github.com/your-username/your-repo.git
 
-markdown
-Copy code
+
+
 
 2. Install the required dependencies:
 $ pip install -r requirements.txt
 
-markdown
-Copy code
+
+
 
 3. Configure the database connection:
 - Open the `config.py` file.
@@ -35,9 +35,6 @@ Copy code
 
 2. Run the program:
 $ python barcode_scanner.py
-
-vbnet
-Copy code
 
 3. The program will wait for a barcode scan. Once a barcode is scanned, the information will be logged into the configured database.
 
