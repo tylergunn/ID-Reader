@@ -60,4 +60,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Special thanks to the open-source community for providing the necessary libraries and tools used in this project.
 
 If you have any questions or need further assistance, please don't hesitate to contact us. Happy scanning!
-Copy the above template and paste it into your README file on GitHub. Make sure to replace the placeholders (e.g., your-username, your-repo) with your actual GitHub username and repository name.
